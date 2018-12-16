@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Boss
+  - Minion
+  - MinionsArm
+  - KhattabHips
+  - MinionHealthImage
+  - Khattab
+  - Zombie
+  - Floor0Reference0
+  - Floor0Reference1
+  - Floor0Reference2
+  - Camera
+  - KhattabLevel
+  - KhattabSkillPoints
+  - KhattabHealth
+  - KhattabRage
+  - KhattabXP
+  - KhattabHealthImage
+  - KhattabRageImage
+  - Sword
+  - Axe
+  - bossLeg
+  - BossLeftArm
+  - BossLeg
+  - BossRightArm
+  - FirstFloorEntrance
+  - Floor1Reference0
+  - Floor1Reference1
+  - Floor1Reference2
+  - Floor2Reference0
+  - Floor2Reference1
+  - Floor2Reference2
+  - SecondFloorEntrance
+  - FinishLight
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
